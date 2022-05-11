@@ -1,0 +1,6 @@
+In Python you can laern lists
+In Python you can learn functions
+in python you can laern for loop
+in python you can laern while loops
+in python you can laern how to import functions and classes
+in python you can learn if statemants
